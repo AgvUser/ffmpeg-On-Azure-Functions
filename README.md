@@ -6,6 +6,6 @@
 ![image](https://github.com/user-attachments/assets/10d20825-95e9-42b1-87a5-ddd7705af6a1)
 
 4. Execute a GET or POST request without parameters in Postman.
-   ![image](https://github.com/user-attachments/assets/66811e43-74fd-4560-bf60-a5075996963a)
+![image](https://github.com/user-attachments/assets/66811e43-74fd-4560-bf60-a5075996963a)
 
 It is successful if the ffmpeg help is displayed as shown in the image!!
